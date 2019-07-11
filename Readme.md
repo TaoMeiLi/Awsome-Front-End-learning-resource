@@ -1,4 +1,4 @@
-# 在GitHub上收集的最全的前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）
+# 在GitHub上收集的最全的前端资源汇总
 
 ![](http://ww3.sinaimg.cn/large/66101050jw1f78o4duzv6j20sg0eut9y.jpg)
 
